@@ -1,0 +1,17 @@
+{
+  "name": "log_file",
+  "version": "1.0.0",
+  "description": "A log file to push only updates",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Garg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "read-last-lines": "^1.8.0",
+    "socket.io": "^4.1.3"
+  }
+}
